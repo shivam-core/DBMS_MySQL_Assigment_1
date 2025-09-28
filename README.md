@@ -99,4 +99,8 @@ The database was designed in **3NF** (Third Normal Form) to ensure data consiste
 * `drones_db.sql` → SQL script with CREATE, INSERT, and queries.
 * `ER_Diagram.png` → ER diagram (friend’s style).
 * `README.md` → This file (design summary).
-* Demo video → Shows database creation and queries execution.
+* Demo video → Shows database creation and query execution.
+
+---
+
+DEMO URL SOON!
