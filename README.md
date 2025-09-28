@@ -102,5 +102,3 @@ The database was designed in **3NF** (Third Normal Form) to ensure data consiste
 * Demo video → Shows database creation and query execution.
 
 ---
-
-DEMO URL SOON!
