@@ -106,3 +106,6 @@ The database was designed in **3NF** (Third Normal Form) to ensure data consiste
 
 
 REMINDER: ADD VIDEO
+
+
+ADD SQL SS
